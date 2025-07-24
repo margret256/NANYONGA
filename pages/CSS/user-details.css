@@ -1,0 +1,21 @@
+form{
+    width: 600px;
+    margin: 20px auto;
+    padding: 25px;
+    border: 1px; solid: #e9e2e9;
+    border-radius: 20px;
+    background-color:#1c2bd2
+}
+lebel{
+    display: block;
+    margin-top: 10px;
+    font-weight: bold;
+}
+input,select{
+    width: 100%;
+    padding: 8px;
+    margin:-top 5px;
+}
+body{
+    background-color: hsla(120, 12%, 90%, 0.945);
+}
